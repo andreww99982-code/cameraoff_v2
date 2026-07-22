@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Privacy Switch</string>
+    <string name="admin_description">Позволяет включать и выключать камеру устройства из приложения.</string>
+    <string name="status_disabled">Заблокирована на уровне устройства</string>
+    <string name="status_enabled">Работает в обычном режиме</string>
+    <string name="status_no_admin">Нужны права администратора устройства</string>
+    <string name="btn_activate_admin">Активировать права администратора</string>
+    <string name="btn_deactivate_admin">Деактивировать права администратора</string>
+
+    <string name="mic_subtitle">Мягкое отключение: работает только пока это приложение открыто и может сбрасываться другими приложениями или системой. Это не полноценная блокировка на уровне устройства.</string>
+    <string name="mic_muted">Микрофон приглушён (soft mute)</string>
+    <string name="mic_active">Микрофон работает в обычном режиме</string>
+
+    <string name="sensors_subtitle">Android не даёт сторонним приложениям программно отключать датчики. Кнопка ниже откроет системный экран приватности, где можно включить «Датчики выкл.» вручную.</string>
+    <string name="btn_open_sensors_settings">Открыть системные настройки датчиков</string>
+</resources>
